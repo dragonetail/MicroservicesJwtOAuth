@@ -3,7 +3,6 @@
 Microservices - Java, Maven, Spring-boot, OAuth2 JWT Server (Springboot)
 
 
-
 # Objective
 
 Just create 3 microservices to demonstrate how works the communication between microservices spring-boot and Oauth2 server using JWT made in spring-boot too. 
